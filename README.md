@@ -1,10 +1,81 @@
-<!--título-->
+<!--Título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Olá, Seja Bem-Vindo!</h1></summary>
+    <summary><h1 style="display: inline-block">Seja Bem-Vindo!!!</h1></summary>
 </div>
 
-<!--- snake --->
-![Snake animation](https://github.com/Diegodelli/Diegodelli/blog/output/github-contribution-grid-snake.svg)
+<hr/>
 
-<br>
+<!-- Apresentação -->
+<p>
+  Olá 👋, sou o Diego! Devenvolvedor Full Stack e apaixonado por tecnologia.
+</p>
+<p>
+  - 🌱 Atualmente estou estudando Análise e Desenvolvimento de Sistemas pela Faculdade São Francisco de Assis.
+</p>
+<p>
+  - 🔭 Estudo desenvolvimento de web desde 2021 e estou em busca da minha primeira oportunidade na área de tecnologia.
+</p>
+
+<!--Mais sobre mim-->
+<details>
+<summary>👨‍💻 Mais Sobre Mim</summary>
+
+  - 💬 Tenho 34 anos e moro na zona Sul de São Paulo. Tenho familiaridade com boas práticas de desenvolvimento, possuo experiência na utilização de metodologias ágeis, experiência com desenvolvimento de diferentes planos de negócio, familiaridade com documentação de diferentes tecnologias, experiência com
+programação orientada a objetos, programação funcional, componentização e uso de bibliotecas.
+  - ⚡ Possuo mais de uma década de experiência no ramo comercial. Minha experiência comercial me proporcionou uma compreensão profunda das necessidades dos clientes e a capacidade de desenvolver relacionamentos sólidos. Ao migrar para a área de tecnologia, combinei essa expertise com uma paixão pela inovação e resolução de problemas.
+  - Como profissional, destaco-me pela minha capacidade de colaboração e disposição para compartilhar conhecimentos. Acredito que o sucesso é alcançado coletivamente, e minha
+abordagem centrada na equipe contribui para um ambiente de trabalho positivo e produtivo.
+
+</details>
+
+<!-- Apresentação do GitHub Stats -->
+
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](dellicolli89@gmail.com)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5548999999999)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegodcramos/)
+
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Diegodelli&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shadow_green&locale=en&hide_border=false" alt="stats graph"  />
+</div>
+
+<!-- Tecnologias-->
+## 🔥 Skills
+
+<div align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30" alt="javascript"  />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="30" alt="typescript"  />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30" alt="react"  />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30" alt="html5"  />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=whit" height="30" alt="css3"  />
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="30" alt="python"  />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="30" alt="node"  />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="30" alt="php"  />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" height="30" alt="express"  />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="30" alt="bootstrap"  />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="30" alt="postgresql"  />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="30" alt="mysql"  />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="30" alt="django"  />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="30" alt="tailwind"  />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="30" alt="sass"  />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="30" alt="c"  />
+  <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" height="30" alt="jest"  />
+</div>
+
+###
+
+<!-- Projetos -->
+
+## Projetos:
+- [Portfólio](https://portfolio-liard-nu-42.vercel.app/)
+- [BiblioteKA-FinalProject-M5-Team](https://github.com/Diegodelli/BiblioteKA-FinalProject-M5-Team)
+- [Site Para Anúncio de Veículos](https://github.com/grupo19-t14-paulo/grupo19-t14-paulo-Projeto-Full-Stack)
+- [API Para Consultas Médicas](https://github.com/OneHealth-Project-M4)
+- [OnlyPets](https://onlypets.vercel.app/)
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Diegodelli/Diegodelli/output/snake.svg" alt="Snake animation" />
+
+###
