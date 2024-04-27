@@ -76,6 +76,12 @@ abordagem centrada na equipe contribui para um ambiente de trabalho positivo e p
 
 <br clear="both">
 
+<!-- Gif -->
+<!--https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif-->
 <img src="https://raw.githubusercontent.com/Diegodelli/Diegodelli/output/snake.svg" alt="Snake animation" />
+
+<p align="left">
+  <img align="center" src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTQyMjc1MjMsIm5iZiI6MTcxNDIyNzIyMywicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDI3VDE0MTM0M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdjNTdjMTA3Y2YzZjVkMTY1YzcxNTc2N2U0NDU4YmZkMTM3NzA3MTAzZTkxZjU0ODIwZWMwYTFmYTQ4NzdlM2QmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.AnhyjHmcimYlGNsk8DFxAmBv0RYMmx_6Axdqncat0uY" alt="Imagem">
+</p>
 
 ###
