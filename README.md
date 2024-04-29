@@ -34,9 +34,8 @@ abordagem centrada na equipe contribui para um ambiente de trabalho positivo e p
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegodcramos/)
 
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Diegodelli&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false" alt="stats graph"  />
-</div>
+<!-- Apresentação do GitHub Stats -->
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=Diegodelli&show_icons=true&theme=gotham)
 
 <!-- Tecnologias-->
 ## 🔥 Skills
@@ -61,10 +60,11 @@ abordagem centrada na equipe contribui para um ambiente de trabalho positivo e p
   <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" height="30" alt="jest"  />
 </div>
 
+
 ###
 
-<!-- Projetos -->
 
+<!-- Projetos -->
 ## Projetos:
 - [Portfólio](https://portfolio-liard-nu-42.vercel.app/)
 - [BiblioteKA-FinalProject-M5-Team](https://github.com/Diegodelli/BiblioteKA-FinalProject-M5-Team)
