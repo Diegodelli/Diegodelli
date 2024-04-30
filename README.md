@@ -11,7 +11,7 @@
   Olá 👋, sou o Diego! Devenvolvedor Full Stack e apaixonado por tecnologia.
 </p>
 <p>
-  - 🌱 Atualmente estou estudando Análise e Desenvolvimento de Sistemas pela Faculdade São Francisco de Assis.
+  - 🌱 Possuo certificação em Desenvolvimento Full Stack pela Kenzie Academy Brasil e atualmente  estudado Análise e Desenvolvimento de Sistemas pela Faculdade São Francisco de Assis.
 </p>
 <p>
   - 🔭 Estudo desenvolvimento de web desde 2021 e estou em busca da minha primeira oportunidade na área de tecnologia.
