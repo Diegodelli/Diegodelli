@@ -58,6 +58,7 @@ abordagem centrada na equipe contribui para um ambiente de trabalho positivo e p
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="30" alt="sass"  />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="30" alt="c"  />
   <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" height="30" alt="jest"  />
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" height="30" alt="solesforce"  />
 </div>
 
 
