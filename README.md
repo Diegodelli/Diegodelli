@@ -14,14 +14,14 @@
   - 🌱 Possuo certificação em Desenvolvimento Full Stack pela Kenzie Academy Brasil e atualmente estudo Análise e Desenvolvimento de Sistemas pela Faculdade São Francisco de Assis.
 </p>
 <p>
-  - 🔭 Estudo desenvolvimento de web desde 2021 e estou em busca da minha primeira oportunidade na área de tecnologia.
+  - 🔭 Estudo desenvolvimento de web desde 2021.
 </p>
 
 <!--Mais sobre mim-->
 <details>
 <summary>👨‍💻 Mais Sobre Mim</summary>
 
-  - 💬 Tenho 34 anos e moro na zona Sul de São Paulo. Tenho familiaridade com boas práticas de desenvolvimento, possuo experiência na utilização de metodologias ágeis, experiência com desenvolvimento de diferentes planos de negócio, familiaridade com documentação de diferentes tecnologias, experiência com
+  - 💬 Tenho 36 anos e moro na zona Sul de São Paulo. Tenho familiaridade com boas práticas de desenvolvimento, possuo experiência na utilização de metodologias ágeis, experiência com desenvolvimento de diferentes planos de negócio, familiaridade com documentação de diferentes tecnologias, experiência com
 programação orientada a objetos, programação funcional, componentização e uso de bibliotecas.
   - ⚡ Possuo mais de uma década de experiência no ramo comercial. Minha experiência comercial me proporcionou uma compreensão profunda das necessidades dos clientes e a capacidade de desenvolver relacionamentos sólidos. Ao migrar para a área de tecnologia, combinei essa expertise com uma paixão pela inovação e resolução de problemas.
   - Como profissional, destaco-me pela minha capacidade de colaboração e disposição para compartilhar conhecimentos. Acredito que o sucesso é alcançado coletivamente, e minha
