@@ -14,7 +14,7 @@
   - 🌱 Possuo certificação em Desenvolvimento Full Stack pela Kenzie Academy Brasil e atualmente estudo Análise e Desenvolvimento de Sistemas pela Faculdade São Francisco de Assis.
 </p>
 <p>
-  - 🔭 Estudo desenvolvimento de web desde 2021.
+  - 🔭 Estudo desenvolvimento de web desde 2021 e atualmente atuo como desenvolvedor Salesforce Pleno IV.
 </p>
 
 <!--Mais sobre mim-->
