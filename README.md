@@ -11,10 +11,10 @@
   Olá 👋, sou o Diego! Devenvolvedor Full Stack e apaixonado por tecnologia.
 </p>
 <p>
-  - 🌱 Possuo certificação em Desenvolvimento Full Stack pela Kenzie Academy Brasil e atualmente estudo Análise e Desenvolvimento de Sistemas pela Faculdade São Francisco de Assis.
+  - 🌱 Possuo certificação em Desenvolvimento Full Stack pela Kenzie Academy Brasil e sou formado em Análise e Desenvolvimento de Sistemas pela Faculdade São Francisco de Assis.
 </p>
 <p>
-  - 🔭 Estudo desenvolvimento de web desde 2021 e atualmente atuo como desenvolvedor Salesforce Pleno IV.
+  - 🔭 Estudo desenvolvimento de web desde 2021 e atualmente atuo como desenvolvedor Salesforce Sênior III.
 </p>
 
 <!--Mais sobre mim-->
@@ -23,7 +23,8 @@
 
   - 💬 Tenho 36 anos e moro na zona Sul de São Paulo. Tenho familiaridade com boas práticas de desenvolvimento, possuo experiência na utilização de metodologias ágeis, experiência com desenvolvimento de diferentes planos de negócio, familiaridade com documentação de diferentes tecnologias, experiência com
 programação orientada a objetos, programação funcional, componentização e uso de bibliotecas.
-  - ⚡ Possuo mais de uma década de experiência no ramo comercial. Minha experiência comercial me proporcionou uma compreensão profunda das necessidades dos clientes e a capacidade de desenvolver relacionamentos sólidos. Ao migrar para a área de tecnologia, combinei essa expertise com uma paixão pela inovação e resolução de problemas.
+  - ⚡ Atuo como Desenvolvedor Salesforce Sênior, com experiência no desenvolvimento e sustentação de soluções na plataforma Salesforce, atuando com Apex, Lightning Web Components (LWC), Aura, SOQL/SOSL, integrações REST/SOAP e automações utilizando recursos nativos da plataforma.
+  - Experiência em análise de requisitos, desenvolvimento de funcionalidades, correção de problemas, otimização de processos, revisão de código e apoio técnico à equipe. Vivência com metodologias ágeis e participação em todas as etapas do ciclo de desenvolvimento, desde o entendimento da demanda até a implantação em produção.
   - Como profissional, destaco-me pela minha capacidade de colaboração e disposição para compartilhar conhecimentos. Acredito que o sucesso é alcançado coletivamente, e minha
 abordagem centrada na equipe contribui para um ambiente de trabalho positivo e produtivo.
 
