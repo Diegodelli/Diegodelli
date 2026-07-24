@@ -23,7 +23,7 @@
 
   - 💬 Tenho 36 anos e moro na zona Sul de São Paulo. Tenho familiaridade com boas práticas de desenvolvimento, possuo experiência na utilização de metodologias ágeis, experiência com desenvolvimento de diferentes planos de negócio, familiaridade com documentação de diferentes tecnologias, experiência com
 programação orientada a objetos, programação funcional, componentização e uso de bibliotecas.
-  - ⚡ Atuo como Desenvolvedor Salesforce Sênior, com experiência no desenvolvimento e sustentação de soluções na plataforma Salesforce, atuando com Apex, Lightning Web Components (LWC), Aura, SOQL/SOSL, integrações REST/SOAP e automações utilizando recursos nativos da plataforma.
+  - ⚡ Tenho experiência no desenvolvimento e sustentação de soluções na plataforma Salesforce, atuando com Apex, Lightning Web Components (LWC), Aura, SOQL/SOSL, integrações REST/SOAP e automações utilizando recursos nativos da plataforma.
   - Experiência em análise de requisitos, desenvolvimento de funcionalidades, correção de problemas, otimização de processos, revisão de código e apoio técnico à equipe. Vivência com metodologias ágeis e participação em todas as etapas do ciclo de desenvolvimento, desde o entendimento da demanda até a implantação em produção.
   - Como profissional, destaco-me pela minha capacidade de colaboração e disposição para compartilhar conhecimentos. Acredito que o sucesso é alcançado coletivamente, e minha
 abordagem centrada na equipe contribui para um ambiente de trabalho positivo e produtivo.
